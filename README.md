@@ -2,6 +2,8 @@
 Use this wrapper in you custom strategy DLL
 
 To use the MQL4CSharp library with nuget. Create a new Visual Studio project, and include the MQLWrapper.cs file.
+https://github.com/jseparovic/MQL4CSharpWrapper/blob/master/MQLWrapper.cs
+
 This will expose the DLL functions to Metatrader and call the underlying library.
 
 Make sure that you update the dll import in the mql4csharp.mq4 file:
